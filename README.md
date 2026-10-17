@@ -106,7 +106,10 @@ Madison left the company. Disabled her account, removed her from IT-Staff, added
 ![Offboarded](Screenshot23.jpg)
 ![Ticket closed](Screenshot24.jpg)
 
-![All tickets done](Screenshot25.jpg)
+### Ticket board
+All 5 tickets resolved in Jira.
+
+![Jira board with all tickets in Done](Screenshot25.jpg)
 
 ## Issues I ran into
 

@@ -73,7 +73,6 @@ Tyler forgot his password. Reset it in AD and confirmed he could log in.
 Set-ADAccountPassword -Identity tanderson -Reset -NewPassword (Read-Host -AsSecureString)
 ```
 
-![Ticket opened](Screenshot13.jpg)
 ![Password reset](Screenshot14.jpg)
 ![Ticket closed](Screenshot15.jpg)
 
